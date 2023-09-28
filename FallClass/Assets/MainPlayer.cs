@@ -5,11 +5,7 @@ using UnityEngine;
 
 public class MainPlayer : MonoBehaviour
 {
-<<<<<<< HEAD
     public string myName = "none";
-=======
-    public string myName = "Julia";
->>>>>>> main
     
     //use this for initialization
     private void Start()
