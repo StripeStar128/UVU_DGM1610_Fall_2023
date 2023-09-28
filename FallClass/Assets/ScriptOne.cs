@@ -10,7 +10,7 @@ public class ScriptOne : MonoBehaviour
         {
             GetComponent<Renderer> ().material.color = Color.red;
         }
-        if (Input.GetKeyDown(KayCode.G)
+        if (Input.GetKeyDown(KeyCode.G))
         {
             GetComponent<Renderer>().material.color = Color.green;
         }
