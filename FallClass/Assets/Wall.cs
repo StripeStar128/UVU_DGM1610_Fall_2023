@@ -9,7 +9,7 @@ public class Wall : MonoBehaviour
     public int width = 10;
     public int height = 4;
 
-    private void Start()
+    void Start()
     {
         for (int y = 0; y < height; ++y)
         {
