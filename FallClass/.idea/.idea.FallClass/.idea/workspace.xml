@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d87dfaa-7535-42db-ab71-87b22eed37a0" name="Changes" comment="" />
+    <list default="true" id="1d87dfaa-7535-42db-ab71-87b22eed37a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FallClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FallClass/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +21,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Follow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/InstantiationTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MainPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Projectile.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Wall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WreckOnCollision.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -98,7 +102,7 @@
       <updated>1695864637992</updated>
       <workItem from="1695864639117" duration="6000" />
       <workItem from="1695865189004" duration="5484000" />
-      <workItem from="1695937404218" duration="1892000" />
+      <workItem from="1695937404218" duration="4786000" />
     </task>
     <servers />
   </component>
