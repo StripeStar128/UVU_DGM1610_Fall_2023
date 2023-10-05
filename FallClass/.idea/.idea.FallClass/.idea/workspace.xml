@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d87dfaa-7535-42db-ab71-87b22eed37a0" name="Changes" comment="" />
+    <list default="true" id="1d87dfaa-7535-42db-ab71-87b22eed37a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FallClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FallClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BasicSyntax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BasicSyntax.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Block.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Block.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreakpointTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreakpointTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterCrouch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterCrouch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterJump.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterJump.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterSprint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CharacterSprint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CircleFormation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CircleFormation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FireProjectile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FireProjectile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Follow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Follow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InstantiationTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InstantiationTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MainPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MainPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Projectile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Projectile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptOne.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptOne.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Wall.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Wall.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WreckOnCollision.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WreckOnCollision.cs.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +51,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/CharacterCrouch.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CharacterJump.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CharacterSprint.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CircleFormation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FireProjectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Follow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/InstantiationTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MainPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Wall.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/WreckOnCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collectible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InvintoryUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerInvitory.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -105,6 +133,7 @@
       <workItem from="1695865189004" duration="5484000" />
       <workItem from="1695937404218" duration="5571000" />
       <workItem from="1696120094662" duration="4942000" />
+      <workItem from="1696542379957" duration="3349000" />
     </task>
     <servers />
   </component>
