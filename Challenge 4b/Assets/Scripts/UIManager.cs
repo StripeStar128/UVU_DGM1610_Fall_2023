@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
@@ -12,11 +13,11 @@ public class UIManager : MonoBehaviour
         if (GetComponentInChildren<Text>() != null)
         {
             _canvasText = GetComponentInChildren<Text>();
-            updateCollectibleScoreDisplay(0); // Calling the method here so that initially, we can see score 0.
+            UpdateCollectibleScoreDisplay(0); // Calling the method here so that initially, we can see score 0.
         }
     }
 
-    public void updateCollectibleScoreDisplay(int collectible)
+    public void UpdateCollectibleScoreDisplay(int collectible)
     {
         _canvasText.text = "Collectibles " + collectible.ToString();
     }

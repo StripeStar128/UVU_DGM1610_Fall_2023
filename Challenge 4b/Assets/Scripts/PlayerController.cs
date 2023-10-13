@@ -41,6 +41,6 @@ public class PlayerController : MonoBehaviour
     public void updatePlayerCollectibles()
     {
         _playerCollectibles++;
-        UIManager.updateCollectibleScoreDisplay(_playerCollectibles);
+        UIManager.print(_playerCollectibles);
     }
 }
