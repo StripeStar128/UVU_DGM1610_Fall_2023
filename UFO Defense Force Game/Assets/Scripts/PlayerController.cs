@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -11,10 +12,14 @@ public class PlayerController : MonoBehaviour
 
     public Transform blaster;
     public GameObject lazerBolt;
-    
-    
-    
-    // Update is called once per frame
+
+    public GameManager gameManager;
+
+    private void Start()
+    {
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>(); // Reference GameManager script on GameManager object
+    }
+
     void Update()
     {
         // Set horizontalInput to receive values from keyboard
@@ -34,12 +39,11 @@ public class PlayerController : MonoBehaviour
             transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
         }
         // If space bar is pressed fire lazerbolt
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && gameManager.isGameOver == false) // *Second condition gameManager.isGameOver prevents the player from shooting after isGameOver becomes true
         {
             //Create laserBolt at the blaster transform position maintaining the objects rotation.
             Instantiate(lazerBolt, blaster.transform.position, lazerBolt.transform.rotation);
         }
-        
     }
 
     // Delete any object with a trigger that hits the player

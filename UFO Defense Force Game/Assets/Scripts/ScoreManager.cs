@@ -1,8 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro; // Text Mesh Pro name spaced added to access the libraries for UI
-using UnityEngine.PlayerLoop; 
+using TMPro; // Text Mesh Pro name space added to access the unity libraries for UI
 
 public class ScoreManager : MonoBehaviour
 {
@@ -24,6 +23,6 @@ public class ScoreManager : MonoBehaviour
 
     public void UpdateScoreText() // This method updates the score in the HUD UI Text
     {
-        scoreText.text = "Score" + score;
+        scoreText.text = "Score: "+ score;
     }
 }

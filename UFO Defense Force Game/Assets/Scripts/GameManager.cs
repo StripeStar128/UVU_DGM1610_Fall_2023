@@ -1,13 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class GameManager : MonoBehaviour
 {
     public bool isGameOver;
     private GameObject gameOverText;
 
-    private void Awake()
+    void Awake()
     {
         Time.timeScale = 1;
         isGameOver = false;
@@ -20,16 +19,13 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isGameOver)
+        if(isGameOver)
         {
-            EndGame(); // Start endgame method
+            EndGame(); // Start EndGame method
         }
         else
-        {
             gameOverText.gameObject.SetActive(false); // Keep UI Text Game Over hidden
-        }
     }
-
     public void EndGame()
     {
         gameOverText.gameObject.SetActive(true); // Make Game Over text appear
