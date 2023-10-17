@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
-using UnityEngine.PlayerLoop; // Text Mesh Pro name spaced added to access the libraries for UI
+using TMPro; // Text Mesh Pro name spaced added to access the libraries for UI
+using UnityEngine.PlayerLoop; 
 
 public class ScoreManager : MonoBehaviour
 {
