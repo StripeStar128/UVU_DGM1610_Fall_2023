@@ -79,3 +79,128 @@
 *.unityproj
 *.sln
 *.sln.meta
+*.mat
+
+*.meta
+
+*.asset
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Prefabs/Buildings/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Prefabs/Environments/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Prefabs/Items/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Prefabs/Props/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Textures/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Prefabs/Buildings/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Prefabs/Characters/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Prefabs/Environments/Custom/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/FX/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Prefabs/Environments/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Prefabs/Props/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Prefabs/Vehicles/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Textures/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Models/Characters/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Demo/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Prefabs/Buildings/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Prefabs/Characters/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Prefabs/Environments/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Prefabs/Props/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Prefabs/Weapons/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonKnights/Textures/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonSamples/PolygonDungeons/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonSamples/PolygonDungeons/Prefabs/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonSamples/PolygonDungeons/Textures/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Prefabs/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Textures/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/DemoScene/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Prefabs/Characters/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonAdventure/Prefabs/Weapons/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonCity/Scenes/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/_NewAssets/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Buildings/Polygon/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Buildings/Simple/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Buildings/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Character_Pawns/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Characters/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/FX/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Generic/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Icons/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Other/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Primitives/Polygon/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Primitives/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Props/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/Vehicle/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Scenes/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Shaders/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/Prefabs/Characters/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/Prefabs/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/Scenes/
+
+UFO Defense Force Game/Assets/SyntyStudios/PolygonStarter/Textures/
