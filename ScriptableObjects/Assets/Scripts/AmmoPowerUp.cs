@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class AmmoPowerUp : MonoBehaviour
 {
-    [SerializeField] private IntData ammoValue;
+    /*[SerializeField] private IntData ammoValue;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -30,5 +30,5 @@ public class AmmoPowerUp : MonoBehaviour
             // Add the ammo value to the player's current ammo count
             weaponController.AddAmmo(ammoValue.Value);
         }
-    }
+    }*/
 }

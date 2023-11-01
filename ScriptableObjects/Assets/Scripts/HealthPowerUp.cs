@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class HealthPowerUp : MonoBehaviour
 {
-    [SerializeField] private FloatData healthValue;
+    /*[SerializeField] private FloatData healthValue;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -31,5 +31,5 @@ public class HealthPowerUp : MonoBehaviour
             // Add the health value to the player's current health
             HealthController.AddHealth(healthValue.Value);
         }
-    }
+    }*/
 }

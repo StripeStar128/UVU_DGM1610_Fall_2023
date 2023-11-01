@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class HealthController : MonoBehaviour
 {
-    #region Properties
+   /* #region Properties
 
     // The player's health at the start
     [SerializeField] private int healthInitial = 3;
@@ -83,5 +83,5 @@ public class HealthController : MonoBehaviour
         }
     }
 
-    #endregion
+    #endregion*/
 }
