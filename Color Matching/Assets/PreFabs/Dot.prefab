@@ -15,9 +15,10 @@ GameObject:
   - component: {fileID: 3980054663564849858}
   - component: {fileID: 8408635031344231963}
   - component: {fileID: 7118138257215068618}
-  - component: {fileID: -7650135218089299115}
-  m_Layer: 7
-  m_Name: Ring
+  - component: {fileID: 8771422069657577851}
+  - component: {fileID: -7771613313625832870}
+  m_Layer: 6
+  m_Name: Dot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -196,7 +197,7 @@ MonoBehaviour:
   disableEvent:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &-7650135218089299115
+--- !u!114 &8771422069657577851
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -205,11 +206,39 @@ MonoBehaviour:
   m_GameObject: {fileID: 135391199490173799}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 882c9569a54e1384ab4d356695bce7aa, type: 3}
+  m_Script: {fileID: 11500000, guid: 4c340e8d19ed6fd49bf94544c0928222, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   idObj: {fileID: 0}
-  startEvent:
+  matchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  noMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  noMatchDelayedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &-7771613313625832870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135391199490173799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b3969bbb9a6e046bd941eddeb79697, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idObj: {fileID: 0}
+  matchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  noMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  noMatchDelayedEvent:
     m_PersistentCalls:
       m_Calls: []
   colorIDDataListObj: {fileID: 11400000, guid: 272dceb8226292343a39f32c2232eb9a, type: 2}
