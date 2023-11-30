@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7189086637478692491}
   - component: {fileID: 7688365725043410833}
+  - component: {fileID: -8444183444143685274}
   m_Layer: 0
   m_Name: InstancerGO
   m_TagString: Untagged
@@ -83,6 +84,34 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  canRun: 0
+  canRun: 1
   counterNum: {fileID: 0}
   seconds: 1
+--- !u!114 &-8444183444143685274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138138672386168134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcd121b6f5c878845a2a5bebdf306b9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameActionObj: {fileID: 11400000, guid: fbad26f3bd0816d43a6016e1b6114fb6, type: 2}
+  onRaiseEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7688365725043410833}
+        m_TargetAssemblyTypeName: CoroutineBehaviour, Assembly-CSharp
+        m_MethodName: set_CanRun
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
